@@ -6,33 +6,41 @@
 📍Brasília, Brasil <br>
 👨‍💻 Desenvolvedor FullStack.
 
-<!-- ## Tecnologias:
-
-<!--
-<img src="./img/java.svg" style="width: 40px; margin: 5px">
-<img src="./img/spring-3.svg" style="width: 40px; margin: 4px;">
-<img src="./img/quarkus_icon_rgb_default.svg" style="width: 40px; margin: 4px">
-<img src="./img/javascript.svg" style="width: 40px; margin: 4px">
-<img src="./img/html5color.svg" style="width: 40px; margin: 4px">
-<img src="./img/css3color.svg" style="width: 40px">
-<img src="./img/angular-icon-1.svg" style="width: 40px;margin: 4px">
-<img src="./img/postgsql.svg" style="width: 40px; margin: 4px">
+## Tecnologias:
+<br>
+<div>
+<img src="./img/java.svg" width="40" />
+&nbsp;
+<img src="./img/spring-3.svg" width="40" />
+&nbsp;
+<img src="./img/quarkus_icon_rgb_default.svg" width="40" />
+&nbsp;
+<img src="./img/javascript.svg" width="40" />
+&nbsp;
+<img src="./img/angular-icon-1.svg" width="40"/>
+&nbsp;
+<img src="./img/html5color.svg" width="40"/>
+&nbsp;
+<img src="./img/css3color.svg" width="40" />
+&nbsp;
+<img src="./img/postgsql.svg" width="40"/>
+</div>
 <br/>
 <br/>
 
 ## Contatos:
 
 <a href="https://jaimedessilva.github.io/" alt="https://jaimedessilva.github.io/">
-<img src="./img/kisspng-world-wide-web-icon-world-wide-web-png-free-download-5a75a1482b5532.3071753115176584401775.png" style="width: 30px; margin: 4px"></a>
-
+<img src="./img/kisspng-world-wide-web-icon-world-wide-web-png-free-download-5a75a1482b5532.3071753115176584401775.png" width="40"/>
+</a>
+&nbsp;
 <a href="mailto:jaimedessilva@gmail.com">
-<img src="./img/gmail-icon.svg" style="width: 30px; margin: 4px"/>
+<img src="./img/gmail-icon.svg" width="40"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/jaimedessilva/">
-<img src="./img/linkedin-original.svg" style="width: 30px; margin: 4px">
-
+<img src="./img/linkedin-original.svg" width="40" />
+&nbsp;
 <a href="https://github.com/jaimedessilva">
-<img src="./img/github-brands.svg" style="width: 30px; margin: 4px"/>
+<img src="./img/github-brands.svg" width="40" />
 </a>
--->
